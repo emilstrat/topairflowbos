@@ -1,0 +1,12 @@
+1. Skapa en DAG
+2. Lägg till en dummyoperator.
+3. Lägg till en till (dummy?)operator med beroenden till den första.
+4. Skapa en till DAG som har en sensor som pekar på den första.
+...
+
+5. Kör en procedur i snowflake
+
+
+..
+
+Om tid över. Få en trasig DAG och försök fixa den.
